@@ -124,4 +124,4 @@ Error generating stack: `+i.message+`
   a {
     font-size: 1.5rem;
   }
-`;function d0({}){return ae(o0,{children:Ei(f0,{children:[ae(ks,{to:"/content-visibility",children:"content visibility"}),ae(ks,{to:"/carousel-effect",children:"carousel"})]})})}function p0(){return ae("div",{className:"App",children:Ei(Zh,{children:[ae(yl,{path:"/",element:ae(d0,{})}),ae(yl,{path:"content-visibility",element:ae(c0,{})}),ae(yl,{path:"carousel-effect",element:ae(a0,{})})]})})}eo.createRoot(document.getElementById("root")).render(ae(Or.StrictMode,{children:ae(bh,{children:ae(p0,{})})}));
+`;function d0({}){return ae(o0,{children:Ei(f0,{children:[ae(ks,{to:"/content-visibility",children:"content visibility"}),ae(ks,{to:"/carousel-effect",children:"carousel"})]})})}function p0(){return ae("div",{className:"App",children:Ei(Zh,{children:[ae(yl,{path:"/",element:ae(d0,{})}),ae(yl,{path:"content-visibility",element:ae(c0,{})}),ae(yl,{path:"carousel-effect",element:ae(a0,{})})]})})}eo.createRoot(document.getElementById("root")).render(ae(Or.StrictMode,{children:ae(bh,{basename:"/css-news",children:ae(p0,{})})}));
