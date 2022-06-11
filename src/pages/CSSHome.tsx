@@ -18,6 +18,7 @@ function CSSHome({}: Props) {
       <StyledNav>
         <Link to="/content-visibility">content visibility</Link>
         <Link to="/carousel-effect">carousel</Link>
+        <Link to="/object-fit">object-fit</Link>
       </StyledNav>
     </>
   )
